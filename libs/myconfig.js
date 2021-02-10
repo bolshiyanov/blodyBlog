@@ -29,7 +29,7 @@ myconfig.images = {
 //***************** Mongoose *******************//
 //============================================================//
 myconfig.mongoose = {
-    uri: "mongodb://127.0.0.1/superblog",
+    uri: "mongodb+srv://bolshiyanov:Hjvtj1976@cluster0.yxlp4.mongodb.net/blondyBlog?retryWrites=true&w=majority",
     options: {
         server: {
             socketOptions: {
